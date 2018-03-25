@@ -1,0 +1,14 @@
+{
+    "item1": "This is item1, no error",
+    "item2 : "This is item2",
+    item3" : "This is item3",
+    item4 : "This is item4",
+    "item5" "This is item5",
+    "item6" : This is item6",
+    "item7" : "This is item7,
+    "item8" : "This is item8"
+    "item9": "This is i\tem9",
+    "item10": "This is \nitem10",
+    "item11": "This is \item11",
+    "item12": "This is item12, last comma error",
+}
