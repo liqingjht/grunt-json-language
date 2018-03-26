@@ -121,7 +121,7 @@ function storeJsonError(file, line, arr) {
 }
 
 function printJsonError() {
-	console.log(jsonError);
+	console.log(jsonError.split('\n').reverse().join('\n') + '\n');
 }
 
 exports.correctJsonItem = correctJsonItem;
