@@ -1,6 +1,10 @@
 # grunt-json-language
 
-> manage language json files
+> manage language json files, checking, unique keys, syncing, remove unused, pretty format and minimum file size
+
+<font size=3 ><b>Expmple of checking json file</b></font>
+
+![](run-test.png)
 
 ## Getting Started
 This plugin requires Grunt `~0.4.5` and Node.js `~8.0`
